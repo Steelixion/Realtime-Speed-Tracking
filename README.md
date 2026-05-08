@@ -300,12 +300,6 @@ Displayed live on top of the detected vehicle in the mobile application.
 
 ---
 
-# 👨‍💻 Author
-
-Zohaib Jamal
-
----
-
 # 📄 License
 
 This project is licensed under the MIT License.
